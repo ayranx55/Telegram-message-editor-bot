@@ -1,0 +1,10 @@
+[
+  {
+    "pattern": "(?i)\\b(@Gazew_07)\\b",
+    "replacement": "@BILLIONAIREBOSS101"
+  },
+  {
+    "pattern": "(?i)\\b(\ud83d\udea7)\\b",
+    "replacement": "\ud83d\ude80"
+  }
+]
